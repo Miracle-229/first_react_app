@@ -1,0 +1,41 @@
+h1{
+    text-align: center;
+}
+.Aside_Friends{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+    padding: 0px 40px;
+    img{
+        width: 100px;
+        height: 100px;
+        :hover{
+            cursor: pointer;
+        }
+    }
+    button{
+        width: 100%;
+        display: block;
+        margin-bottom: 10px;
+        cursor: pointer;
+    }
+}
+.friends_content{
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+    width: 500px;
+    border: 1px solid black;
+}
+.CurrentPage{
+    color: gold;
+}
+.CurrentPageWrap{
+    font-size: 25px;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    span{
+        margin-left: 10px;
+    }
+}

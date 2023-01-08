@@ -1,0 +1,18 @@
+.Header{
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  grid-area: header;
+  height: 100%;
+  background-color: rgba(34, 8, 148, 0.3);
+  padding-right: 40px;
+  ul,li{
+    padding: 0px;
+    list-style: none;
+    margin-left: 50px;
+    display: inline-block;
+  }
+}
+.activeLink{
+  color:rgb(184, 19, 181);
+}

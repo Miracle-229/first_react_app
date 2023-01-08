@@ -1,0 +1,9 @@
+.Aside{
+    display: grid;
+    grid-area: aside;
+    grid-template-columns: 30% 70%;
+    img{
+      height: 650px;
+      width: 100%;
+    }
+  }

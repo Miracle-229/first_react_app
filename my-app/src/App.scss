@@ -1,0 +1,16 @@
+a {
+  text-decoration: none;
+  color: black;
+}
+.App {
+  display: grid;
+  grid-template-areas:
+    "header header header header header"
+    "section aside aside aside aside "
+    "footer footer footer footer footer";
+}
+.Footer {
+  height: 100px;
+  background-color: cornsilk;
+  grid-area: footer;
+}

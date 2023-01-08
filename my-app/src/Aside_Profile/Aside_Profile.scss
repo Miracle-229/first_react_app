@@ -1,0 +1,22 @@
+.Aside_Profile {
+    padding: 40px 60px;
+    grid-area: aside;
+    img {
+        width: 300px;
+        height: 400px;
+    }
+}
+.Aside_Profile_content {
+    display: grid;
+    grid-template-columns: 30% 70%;
+}
+.content_column_second {
+    padding: 10px 30px;
+    background-color: #00ffff;
+    p {
+        font-size: 15px;
+    }
+    h3 {
+        text-align: center;
+    }
+}

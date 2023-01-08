@@ -1,0 +1,27 @@
+.Message{
+    display: flex;
+    flex-direction: column;
+    ul{
+      margin-top: 50px;
+    }
+    li{
+      margin-top: 15px;
+      list-style: none;
+      padding: 5px 10px;
+      border: 1px solid black;
+      display: block;
+      width: fit-content;
+    }
+    textarea{
+      width: 50%;
+      height: 10%;
+      margin: 0 auto;
+      margin-top: 100px;
+    }
+    button{
+      width: 100px;
+      height: 30px;
+      margin: 0 auto;
+      margin-top: 10px;
+    }
+  }

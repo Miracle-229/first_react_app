@@ -1,0 +1,208 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "followed": false,
+      "first_name": "Лада",
+      "last_name": "Куцко",
+      "avatar":"https://www.dl.dropboxusercontent.com/s/wsbf81ifphbwng5/123.jpg?dl=0"
+    },
+    {
+      "id": 2,
+      "followed": true,
+      "first_name": "Alex",
+      "last_name": "Ferguson",
+      "avatar": "https://cdn.bleacherreport.net/images_root/slides/photos/000/537/384/sira_original.jpg?1291209335"
+    },
+    {
+      "id": 3,
+      "followed": true,
+      "first_name": "Tobias",
+      "last_name": "Funke",
+      "avatar": "https://reqres.in/img/faces/9-image.jpg"
+    },
+    {
+      "id": 4,
+      "followed": true,
+      "first_name": "Byron",
+      "last_name": "Fields",
+      "avatar": "https://reqres.in/img/faces/10-image.jpg"
+    },
+    {
+      "id": 5,
+      "followed": true,
+      "first_name": "George",
+      "last_name": "Edwards",
+      "avatar": "https://reqres.in/img/faces/11-image.jpg"
+    },
+    {
+      "id": 6,
+      "followed": true,
+      "first_name": "Rachel",
+      "last_name": "Howell",
+      "avatar": "https://reqres.in/img/faces/12-image.jpg"
+    },
+    {
+      "id": 7,
+      "followed": true,
+      "first_name": "Иван",
+      "last_name": "Чверток",
+      "avatar": "https://stadion.uz/images/news/%D0%BD%D0%BE%D0%B9%D0%B5%D1%806.jpg"
+    },
+    {
+      "id": 8,
+      "followed": true,
+      "first_name": "Leonel",
+      "last_name": "Pepsi",
+      "avatar": "https://pbs.twimg.com/media/EyeXQnhVIAEmkXT.jpg"
+    },
+    {
+      "id": 9,
+      "followed": true,
+      "first_name": "Cristiano",
+      "last_name": "Penaldu",
+      "avatar": "https://interesnyefakty.org/wp-content/uploads/Foto-Ronaldu-12.jpg"
+    },
+    {
+      "id": 10,
+      "followed": true,
+      "first_name": "Хз",
+      "last_name": "Какой-то",
+      "avatar": "https://pbs.twimg.com/media/B35uhhMIAAERbgw.jpg"
+    },
+    {
+      "id": 11,
+      "followed": true,
+      "first_name": "Максим",
+      "last_name": "Крутой",
+      "avatar": "https://music-facts.ru/interesting_news/wp-content/uploads/2019/09/iC4D34PIQ.jpg"
+    },
+    {
+      "id": 12,
+      "followed": true,
+      "first_name": "Михаил",
+      "last_name": "Круг",
+      "avatar": "https://www.novochag.ru/upload/img_cache/30b/30bc5bd0af70166376599db0fe4b4125_ce_795x549x0x230_cropped_1332x888.jpg"
+    },
+    {
+      "id": 13,
+      "followed": true,
+      "first_name": "Егор",
+      "last_name": "Квадрат",
+      "avatar": "https://pbs.twimg.com/media/DrvRZ5yXQAARBrH.jpg:large"
+    },
+    {
+      "id": 14,
+      "followed": true,
+      "first_name": "Вадим",
+      "last_name": "Артиш",
+      "avatar": "http://www.gonta.by/images/MyFoto/Kacheli/Sadovye-kacheli-iz-dereva-012.jpg"
+    },
+    {
+      "id": 15,
+      "followed": true,
+      "first_name": "Александр",
+      "last_name": "Вершель",
+      "avatar": "https://i.imgflip.com/4qlue4.png"
+    },
+    {
+      "id": 16,
+      "followed": true,
+      "first_name": "Хз",
+      "last_name": "Какой-то",
+      "avatar": "https://pbs.twimg.com/media/B35uhhMIAAERbgw.jpg"
+    },
+    {
+      "id": 17,
+      "followed": true,
+      "first_name": "Stephen",
+      "last_name": "Curry",
+      "avatar": "https://s5o.ru/storage/simple/ru/edt/5a/80/25/1c/ruec878cb9499.jpg"
+    },
+    {
+      "id": 18,
+      "followed": true,
+      "first_name": "Виталий",
+      "last_name": "Цаль",
+      "avatar": "https://i.ytimg.com/vi/a5hYap09vfA/maxresdefault.jpg"
+    },    {
+      "id": 19,
+      "followed": true,
+      "first_name": "ליסה",
+      "last_name": "פיתה",
+      "avatar": "https://cs11.pikabu.ru/post_img/big/2020/11/04/6/1604482012129654473.jpg"
+    },
+    {
+      "id": 20,
+      "followed": true,
+      "first_name": "Илья",
+      "last_name": "Мазелов",
+      "avatar": "https://avatars.mds.yandex.net/i?id=72cb94c7360be763471d65cd0360259c_l-5194765-images-thumbs&n=13"
+    },
+    {
+      "id": 21,
+      "followed": true,
+      "first_name": "Хз",
+      "last_name": "Какой-то",
+      "avatar": "https://pbs.twimg.com/media/B35uhhMIAAERbgw.jpg"
+    },
+    {
+      "id": 22,
+      "followed": true,
+      "first_name": "12123",
+      "last_name": "123124",
+      "avatar": "https://adonius.club/uploads/posts/2022-05/1653351709_31-adonius-club-p-dvoichnii-kod-oboi-krasivo-39.jpg"
+    },
+    {
+      "id": 23,
+      "followed": true,
+      "first_name": "Rel",
+      "last_name": "Ell",
+      "avatar": "https://catherineasquithgallery.com/uploads/posts/2021-02/1614454898_82-p-temnii-fon-dlya-gacha-laif-90.jpg"
+    },
+    {
+      "id": 24,
+      "followed": true,
+      "first_name": "Хз",
+      "last_name": "Какой-то",
+      "avatar": "https://pbs.twimg.com/media/B35uhhMIAAERbgw.jpg"
+    },
+    {
+      "id": 25,
+      "followed": true,
+      "first_name": "Alibaba",
+      "last_name": "Hiphopovich",
+      "avatar": "https://cdn22.img.ria.ru/images/07e4/03/13/1568856666_391:0:1500:1109_1920x0_80_0_0_2618a55244ca04ac5cfc577806e78831.jpg"
+    }
+  ],
+  "profile1":{
+    "first_name": "Лада",
+    "last_name": "Куцко",
+    "avatar": "https://cs6.pikabu.ru/avatars/1050/v1050265-1382128300.jpg",
+    "date":"3 июня",
+    "status":"люблю косых",
+    "city":"Барановичи",
+    "activity":"Психолог",
+    "hobby":"Книги"
+  },
+  "profile2":{
+    "first_name": "Alex",
+    "last_name": "Ferguson",
+    "avatar": "https://cdn.bleacherreport.net/images_root/slides/photos/000/537/384/sira_original.jpg?1291209335",
+    "date":"31 декабря",
+    "status":"The main thing is to know what you are capable of and to believe in your own strength",
+    "city":"Manchester",
+    "activity":"Coach",
+    "hobby":"take the Premier League 13 times"
+  },
+  "profile3":{
+    "first_name": "Tobias",
+    "last_name": "Funke",
+    "avatar": "https://reqres.in/img/faces/9-image.jpg",
+    "date":"12 января",
+    "status":"The main thing is to know what you are capable of and to believe in your own strength",
+    "city":"London",
+    "activity":"Coach",
+    "hobby":"take the Premier League 13 times"
+  }
+}
